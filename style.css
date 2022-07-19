@@ -1,0 +1,24 @@
+.container-audio {
+    padding: 50px;
+    margin: 50px auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-input {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+#archive {
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+#audio {
+    border: 5px solid green;
+    border-radius: 20px;
+}
